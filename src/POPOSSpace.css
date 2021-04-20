@@ -9,3 +9,8 @@
   width: 100%;
   height: auto;
 }
+
+.hours {
+  font-style:italic;
+  color:red;
+}
