@@ -1,6 +1,6 @@
 // src/Title.js
 
-import React from 'react'
+import React from 'react';
 import './Title.css';
 
 function Title() {
